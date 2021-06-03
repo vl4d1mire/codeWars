@@ -1,3 +1,9 @@
 CodeWars Solutions
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-n3vcb7)
+Getting Start
+git clone https://github.com/vl4d1mire/codeWars.git
+cd codewars
+npm install
+npm run test // also you can run `npm run watch`
+
+
